@@ -9,4 +9,4 @@ void displayTitle() {
 
 void displayMenu() {
     printf("Operators: +  -  *  /  %%\n");
-}
+}//end function
