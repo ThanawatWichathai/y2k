@@ -2,5 +2,6 @@
 
 int main(){
     printf("Hello Diw");
-return 0;
+    printf( "ORANGE di wa!!" ) ;
+    return 0;
 }
